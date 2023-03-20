@@ -1,0 +1,17 @@
+.bg {
+  background-color: red;
+  padding: 10% 20%;
+}
+
+.form {
+  background-color: pink;
+  padding: 5% 10%;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+Div > input {
+  margin-left: 20px;
+}
